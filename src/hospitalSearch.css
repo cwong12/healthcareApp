@@ -1,0 +1,24 @@
+
+#admin-form {
+  width: 100%;
+}
+#admin-add-form {
+  width: 100%;
+}
+
+.admin{
+  padding-bottom: 100px;
+  color: red;
+  width: 70%;
+  margin: auto;
+}
+
+.resultText{
+  color:black;
+}
+
+.resultBox{
+  border-color: black;
+  border-style: solid;
+  margin: 10px;
+}
